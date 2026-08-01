@@ -38,8 +38,7 @@ This project aims to develop a **non-invasive, optics-based prototype for glucos
 | AMS1117-3.3V | Analog circuitry regulation |
 
 ## Repository Structure
-> _Update this section to match your actual folder layout, e.g.:_
-```
+
 /hardware      - KiCad schematics and PCB files
 /firmware      - Arduino source code
 /docs          - Weekly progress reports and documentation
